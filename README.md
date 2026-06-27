@@ -13,4 +13,4 @@ Frontend Engineer with 3+ years of experience building scalable, high-performanc
 
 ## 📫 Contact Me
 
-- 📧 Email: [manojmateti4444@gmail.com](mailto:manojmateti4444@gmail.com)
+📧 Email: [manojmateti4444@gmail.com](mailto:manojmateti4444@gmail.com)
