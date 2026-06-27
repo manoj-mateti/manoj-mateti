@@ -10,3 +10,7 @@ Frontend Engineer with 3+ years of experience building scalable, high-performanc
 - ⚡ Passionate about Performance Optimization & Browser Internals
 - 🚀 Focused on building scalable, maintainable, and performant web applications
 - 📚 Currently exploring AI-powered frontend development
+
+## 📫 Contact Me
+
+- 📧 Email: [manojmateti4444@gmail.com](mailto:manojmateti4444@gmail.com)
